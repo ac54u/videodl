@@ -7,6 +7,8 @@ WeChat Official Account (微信公众号):
     Charles的皮卡丘
 GitHub:
     https://github.com/CharlesPikachu/videodl
+Modified by:
+    ac54u
 '''
 import videodl
 from setuptools import setup, find_packages
